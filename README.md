@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 Editando desde github
 
 Fusiones 
+editando desde el repositorio local
